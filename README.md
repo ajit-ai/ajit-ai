@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ajit kumar</h1>
-### ****Senior Solution Architect | Cloud & Polyglot Engineer****
+Senior Solution Architect | Cloud & Polyglot Engineer
 
 Architecting scalable, resilient, and high-performance distributed systems.
 Leveraging a strong polyglot engineering background and multi-cloud expertise to bridge the gap between complex business requirements and cutting-edge technical execution.
