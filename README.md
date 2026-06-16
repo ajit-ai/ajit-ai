@@ -8,18 +8,19 @@ Leveraging a strong polyglot engineering background and multi-cloud expertise to
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajit-ai&label=Profile%20views&color=0e75b6&style=flat" alt="ajit-ai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajit-ai" alt="ajit-ai" /></a> </p>
+
 - 🔭 **Current Focus:** Designing event-driven microservices architectures and cloud-native platforms.
 
 - ⚙️ **Core Philosophy:** Choosing the right tool for the job—balancing performance, scalability, and maintainability.
-- 
+ 
 - ☁️ **Cloud Expertise:** Multi-cloud strategy spanning AWS and Azure (IaC, Serverless, Containerization).
-- 
+ 
 - 💬 **Ask me about:** Distributed systems, CI/CD pipelines, polyglot programming, and system migration strategies.
-- 
+ 
 - 🌱 I’m currently learning **Quantum Software, OS, Particle Communication**
-- 
+ 
 - 💬 Ask me about **Java, Python, Golang,Groovy,Scala,JS, TS, Cloud,CICD etc.**
-- 
+ 
 - 📫 How to reach me **ajitjava2@gmail.com**
 
 ### Blogs posts
