@@ -80,7 +80,7 @@
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=ajit-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ajit-ai&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=ajit-ai&theme=dark&hide_border=false&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ajit-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Achievements
@@ -90,7 +90,7 @@
 
 ## 📈 Contribution Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajit-ai&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajit-ai&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=false&locale=en)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⏰ When I Code (Productive Time)
 
