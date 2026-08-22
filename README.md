@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ajit%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Senior%20Solution%20Architect%20%7C%20Cloud%20%26%20Polyglot%20Engineer&descSize=16&descAlignY=68)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ajit%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Senior%20Solution%20Architect%20%7C%20Cloud%20%C2%B7%20Polyglot%20Engineer&descSize=16&descAlignY=68)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Senior+Solution+Architect;Cloud+%26+Polyglot+Engineer;Quantum+Computing+Researcher;Cosmologist+%7C+Entrepreneur+%7C+VC;Architecting+Scalable+Distributed+Systems)](https://github.com/ajit-ai)
 
@@ -83,9 +83,10 @@
 ![](https://streak-stats.demolab.com/?user=ajit-ai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ajit-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ajit-ai&theme=radical&no-frame=false&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajit-ai&theme=github_dark)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajit-ai&theme=github_dark)
 
 ## 📈 Contribution Activity Graph
 
@@ -93,7 +94,7 @@
 
 ## ⏰ When I Code (Productive Time)
 
-![](https://github-readme-stats.shion.dev/api/productive-time/?username=ajit-ai&theme=dark&hide_border=false&domain=https://shion.dev)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajit-ai&theme=github_dark)
 
 ---
 
