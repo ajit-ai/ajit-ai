@@ -122,15 +122,53 @@
 
 ---
 
-# 🚀 Featured Projects
+# 📚 Repository Showcase
 
-| Project | Description |
-|---------|-------------|
-| [⚛️ QuantumComputing](https://github.com/ajit-ai/QuantumComputing) | Quantum computing algorithms & hands-on Jupyter experiments |
-| [📊 Data_Science](https://github.com/ajit-ai/Data_Science) | Data science notebooks, analysis & visualizations |
-| [🗣️ NLP](https://github.com/ajit-ai/NLP) | Natural language processing explorations |
-| [🐍 Python](https://github.com/ajit-ai/Python) | Python projects & computational notebooks |
-| [☕ Java](https://github.com/ajit-ai/Java) | Java engineering playground & patterns |
+### ⚛️ Quantum · Data Science · AI Research
+
+| Repository | About | Language |
+|------------|-------|----------|
+| [⚛️ QuantumComputing](https://github.com/ajit-ai/QuantumComputing) | Starting the Age of Quantum Innovation | `Jupyter` |
+| [📊 Data_Science](https://github.com/ajit-ai/Data_Science) | Data science notebooks, analysis & visualizations | `Jupyter` |
+| [🧠 Machine-Learning](https://github.com/ajit-ai/Machine-Learning) | Core ML algorithms & applied experiments | — |
+| [🕸️ Deep-Learning](https://github.com/ajit-ai/Deep-Learning) | Deep learning architectures & training notebooks | — |
+| [🔗 Neural-Network](https://github.com/ajit-ai/Neural-Network) | Neural network implementations from scratch | — |
+| [✨ Generative-AI](https://github.com/ajit-ai/Generative-AI) | Generative AI explorations & prompt engineering | — |
+| [🗣️ NLP](https://github.com/ajit-ai/NLP) | Natural language processing research & tooling | — |
+| [👁️ Computer-Vision](https://github.com/ajit-ai/Computer-Vision) | Image processing & vision experiments | — |
+| [🤖 Robotics](https://github.com/ajit-ai/Robotics) | Robotics & intelligent automation projects | — |
+| [🔥 pytorch](https://github.com/ajit-ai/pytorch) | PyTorch model building & experimentation | — |
+| [🐍 Python](https://github.com/ajit-ai/Python) | Python projects & computational notebooks | `Jupyter` |
+
+### 🌐 Web · Applications · Systems
+
+| Repository | About | Language |
+|------------|-------|----------|
+| [🌌 quantsmind-web](https://github.com/ajit-ai/quantsmind-web) | Quantum mind exploration — modern web app | `TypeScript` |
+| [🌌 quantsmind-website](https://github.com/ajit-ai/quantsmind-website) | Quantums Mind exploration | `TypeScript` |
+| [💰 quantsmoney-website](https://github.com/ajit-ai/quantsmoney-website) | Quantsmoney platform website | `HTML` |
+| [🏙️ angularhosting](https://github.com/ajit-ai/angularhosting) | A visual journey through Jodhpur city | `HTML` |
+| [⚡ Redis-Cache](https://github.com/ajit-ai/Redis-Cache) | Redis caching patterns & performance demos | — |
+
+### 💻 Polyglot Language Labs
+
+| Repository | Language |
+|------------|----------|
+| [☕ Java](https://github.com/ajit-ai/Java) | `Java` |
+| [🗄️ SQL](https://github.com/ajit-ai/SQL) | `PLpgSQL` |
+| [🐹 Golang](https://github.com/ajit-ai/Golang) | `Go` |
+| [🦀 rust](https://github.com/ajit-ai/rust) | `Rust` |
+| [⚙️ Cpp](https://github.com/ajit-ai/Cpp) | `C++` |
+| [🔹 C](https://github.com/ajit-ai/C) | `C` |
+| [🔴 Scala](https://github.com/ajit-ai/Scala) | `Scala` |
+| [🎯 Kotlin](https://github.com/ajit-ai/Kotlin) | `Kotlin` |
+| [🔬 Julia](https://github.com/ajit-ai/Julia) | `Julia` |
+| [📈 R](https://github.com/ajit-ai/R) | `R` |
+| [💎 Ruby](https://github.com/ajit-ai/Ruby) | `Ruby` |
+| [🐍 Nim](https://github.com/ajit-ai/Nim) | `Nim` |
+| [⚡ Zig](https://github.com/ajit-ai/Zig) | `Zig` |
+| [🅅 Vlang](https://github.com/ajit-ai/Vlang) | `V` |
+| [♯ CSharp](https://github.com/ajit-ai/CSharp) | `C#` |
 
 ---
 
