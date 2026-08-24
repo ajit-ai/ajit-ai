@@ -99,15 +99,15 @@
 |------------|-------|----------|
 | [⚛️ QuantumComputing](https://github.com/ajit-ai/QuantumComputing) | Starting the Age of Quantum Innovation | `Jupyter` |
 | [📊 Data_Science](https://github.com/ajit-ai/Data_Science) | Data science notebooks, analysis & visualizations | `Jupyter` |
-| [🧠 Machine-Learning](https://github.com/ajit-ai/Machine-Learning) | Core ML algorithms & applied experiments | — |
-| [🕸️ Deep-Learning](https://github.com/ajit-ai/Deep-Learning) | Deep learning architectures & training notebooks | — |
-| [🔗 Neural-Network](https://github.com/ajit-ai/Neural-Network) | Neural network implementations from scratch | — |
-| [✨ Generative-AI](https://github.com/ajit-ai/Generative-AI) | Generative AI explorations & prompt engineering | — |
-| [🗣️ NLP](https://github.com/ajit-ai/NLP) | Natural language processing research & tooling | — |
-| [👁️ Computer-Vision](https://github.com/ajit-ai/Computer-Vision) | Image processing & vision experiments | — |
-| [🤖 Robotics](https://github.com/ajit-ai/Robotics) | Robotics & intelligent automation projects | — |
-| [🔥 pytorch](https://github.com/ajit-ai/pytorch) | PyTorch model building & experimentation | — |
-| [🧪 Tensorflow-demo](https://github.com/ajit-ai/Tensorflow-demo) | TensorFlow demos & experiments | — |
+| [🧠 Machine-Learning](https://github.com/ajit-ai/Machine-Learning) | Core ML algorithms & applied experiments | `Python` |
+| [🕸️ Deep-Learning](https://github.com/ajit-ai/Deep-Learning) | Deep learning architectures & training notebooks | `Python` |
+| [🔗 Neural-Network](https://github.com/ajit-ai/Neural-Network) | Neural network implementations from scratch | `Python` |
+| [✨ Generative-AI](https://github.com/ajit-ai/Generative-AI) | Generative AI explorations & prompt engineering | `Python` |
+| [🗣️ NLP](https://github.com/ajit-ai/NLP) | Natural language processing research & tooling | `Jupyter` |
+| [👁️ Computer-Vision](https://github.com/ajit-ai/Computer-Vision) | Image processing & vision experiments | `Python` |
+| [🤖 Robotics](https://github.com/ajit-ai/Robotics) | Robotics & intelligent automation projects | `Python` |
+| [🔥 pytorch](https://github.com/ajit-ai/pytorch) | PyTorch model building & experimentation | `Python` |
+| [🧪 Tensorflow-demo](https://github.com/ajit-ai/Tensorflow-demo) | TensorFlow demos & experiments | `Python` |
 | [🐍 Python](https://github.com/ajit-ai/Python) | Python projects & computational notebooks | `Jupyter` |
 
 ### 🌐 Web · Applications · Systems
