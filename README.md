@@ -71,7 +71,7 @@
 
 ```text
 🗓️  11+ years on GitHub            (joined April 2015)
-📦   32 public repositories
+📦   34 public repositories
 🌍   16+ programming languages explored
 👥   23 followers · following 78
 ⭐    Community stars earned across projects
@@ -107,6 +107,7 @@
 | [👁️ Computer-Vision](https://github.com/ajit-ai/Computer-Vision) | Image processing & vision experiments | — |
 | [🤖 Robotics](https://github.com/ajit-ai/Robotics) | Robotics & intelligent automation projects | — |
 | [🔥 pytorch](https://github.com/ajit-ai/pytorch) | PyTorch model building & experimentation | — |
+| [🧪 Tensorflow-demo](https://github.com/ajit-ai/Tensorflow-demo) | TensorFlow demos & experiments | — |
 | [🐍 Python](https://github.com/ajit-ai/Python) | Python projects & computational notebooks | `Jupyter` |
 
 ### 🌐 Web · Applications · Systems
@@ -138,6 +139,7 @@
 | [⚡ Zig](https://github.com/ajit-ai/Zig) | `Zig` |
 | [🅅 Vlang](https://github.com/ajit-ai/Vlang) | `V` |
 | [♯ CSharp](https://github.com/ajit-ai/CSharp) | `C#` |
+| [🎸 Groovy](https://github.com/ajit-ai/Groovy) | `Groovy` |
 
 ---
 
