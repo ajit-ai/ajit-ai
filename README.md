@@ -139,6 +139,7 @@
 | [⚡ Zig](https://github.com/ajit-ai/Zig) | `Zig` |
 | [🅅 Vlang](https://github.com/ajit-ai/Vlang) | `V` |
 | [♯ CSharp](https://github.com/ajit-ai/CSharp) | `C#` |
+| [🧩 Karkain-demo](https://github.com/ajit-ai/Karkain-demo) | `Karkain` |
 | [🎸 Groovy](https://github.com/ajit-ai/Groovy) | `Groovy` |
 
 ---
