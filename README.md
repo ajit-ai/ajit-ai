@@ -71,7 +71,7 @@
 
 ```text
 🗓️  11+ years on GitHub            (joined April 2015)
-📦   34 public repositories
+📦   37 public repositories
 🌍   16+ programming languages explored
 👥   23 followers · following 78
 ⭐    Community stars earned across projects
@@ -118,6 +118,8 @@
 | [🌌 quantsmind-website](https://github.com/ajit-ai/quantsmind-website) | Quantums Mind exploration | `TypeScript` |
 | [💰 quantsmoney-website](https://github.com/ajit-ai/quantsmoney-website) | Quantsmoney platform website | `HTML` |
 | [🏙️ angularhosting](https://github.com/ajit-ai/angularhosting) | A visual journey through Jodhpur city | `HTML` |
+| [🛠️ driversfiles](https://github.com/ajit-ai/driversfiles) | System driver files inspection & management tool | `Java` |
+| [⚙️ fct](https://github.com/ajit-ai/fct) | Java-based utility application | `Java` |
 | [⚡ Redis-Cache](https://github.com/ajit-ai/Redis-Cache) | Redis caching patterns & performance demos | — |
 
 ### 💻 Polyglot Language Labs
