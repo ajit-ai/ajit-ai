@@ -64,10 +64,6 @@
 ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajit-ai&theme=github_dark)
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajit-ai&theme=github_dark)
 
-## 📈 Contribution Activity Graph
-
-[![Contribution Activity Graph](https://ghchart.rshah.org/3fb950/ajit-ai)](https://github.com/AshKyd/ghchart)
-
 ## ⏰ When I Code (Productive Time)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajit-ai&theme=github_dark)
