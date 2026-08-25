@@ -59,7 +59,7 @@
 
 ## 📈 Contribution Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajit-ai&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=false&locale=en)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution Activity Graph](https://ghchart.rshah.org/3fb950/ajit-ai)](https://github.com/AshKyd/ghchart)
 
 ## ⏰ When I Code (Productive Time)
 
