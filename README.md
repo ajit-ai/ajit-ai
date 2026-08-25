@@ -52,14 +52,21 @@
 ![](https://streak-stats.demolab.com/?user=ajit-ai&theme=dark&hide_border=false&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ajit-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ajitjava2?theme=dark&font=Jost&ext=contest)](https://leetcode.com/ajitjava2)
+
+<!-- ⏱️ WAKATIME — set up your free account at wakatime.com, install the editor plugin,
+     then replace YOUR_WAKATIME_USERNAME below and remove these comment lines:
+[![WakaTime Stats](https://github-readme-stats.shion.dev/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dark&hide_border=false)]
+-->
+
 ## 🏆 GitHub Achievements
 
 ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajit-ai&theme=github_dark)
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajit-ai&theme=github_dark)
 
-## 📈 Contribution Activity Graph
+## 📈 Isometric Contribution Calendar
 
-[![Contribution Activity Graph](https://ghchart.rshah.org/3fb950/ajit-ai)](https://github.com/AshKyd/ghchart)
+![Isometric Calendar](./metrics.isocalendar.svg)
 
 ## ⏰ When I Code (Productive Time)
 
@@ -88,6 +95,32 @@
 | 📊 Data Science | Notebooks, statistical modeling & applied analytics |
 | 🗣️ NLP | Natural language processing research & tooling |
 | ☁️ Cloud Architecture | Multi-cloud patterns for resilient enterprise systems |
+
+---
+
+# 💼 My Journey
+
+```text
+   🌌  Cosmology & quantum curiosity — asking how the universe computes
+        │
+   🧑‍💻  Polyglot engineer — Java · Python · Go · Rust · Scala & beyond
+        │
+   ☁️   Senior Solution Architect — resilient multi-cloud distributed systems
+        │
+   📊   Enterprise & Data Architect — data platforms & analytics at scale
+        │
+   🚀   Entrepreneur · VC · Quantum researcher — building what comes next
+```
+
+---
+
+# 🎓 Certifications & Education
+
+| Credential | Issuer | Year |
+|------------|--------|------|
+| *Add your certifications, degrees & courses here* | *Issuer* | *Year* |
+
+<!-- Add rows like: | AWS Certified Solutions Architect | Amazon Web Services | 2024 | -->
 
 ---
 
@@ -173,6 +206,13 @@
 # 💬 Dev Quote of the Moment
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+
+# ☕ Support My Work
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me%20on%20GitHub-Sponsors-%23EA4AAA?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/ajit-ai)
+[![Read Articles](https://img.shields.io/badge/Read%20my%20articles-Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@ajitjava2)
 
 ---
 
