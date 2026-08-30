@@ -1,6 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=karkain&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=ajit--ai%20%C2%B7%20Founder%20%26%20Chief%20Solution%20Architect&descSize=14&descAlignY=68)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=karkain&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Founder%20%40%20www.quantsmind.com%20%C2%B7%20Chief%20Solution%20Architect&descSize=14&descAlignY=68)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Founder+%26+Chief+Solution+Architect;Quantum+Innovator+%7C+Enterprise+%26+Data+Architect;Cosmologist+%7C+Entrepreneur+%7C+VC;Architecting+Scalable+Distributed+Systems)](https://github.com/ajit-ai)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Founder+%40+www.quantsmind.com;Chief+Solution+Architect;Quantum+Innovator+%7C+Enterprise+Architect;Cosmologist+%7C+Entrepreneur+%7C+VC)](https://www.quantsmind.com)
 
 <div align="left">
 
@@ -15,7 +15,7 @@
 
 # 💫 About Me
 
-> **Founder and Chief Solution Architect**
+> **Founder — [www.quantsmind.com](https://www.quantsmind.com) | Chief Solution Architect**
 >
 > Visionary founder at the intersection of **quantum computing, cosmology, and enterprise technology**.
 > Architecting scalable, resilient, and high-performance distributed systems that turn bold business
@@ -25,6 +25,7 @@
 
 **Expertise — Founder's Focus:** `Strategic Leadership` · `Enterprise & Data Architecture` · `Quantum Computing & QML` · `Distributed Systems` · `Multi-Cloud Strategy` · `AI/ML & Data Platforms` · `Cosmology-Inspired Systems Thinking` · `Venture Building & Product Vision`
 
+- 🏢 Founder of **[www.quantsmind.com](https://www.quantsmind.com)** — building quantum-inspired intelligence & data platforms
 - 🔭 Currently researching **Quantum Computing** and **Quantum Machine Learning**
 - 🌱 Deep-diving into **enterprise data architecture** & **AI-driven distributed systems**
 - 🌌 Passionate about **cosmology** and connecting physics-inspired thinking to software design
@@ -34,6 +35,7 @@
 
 ## 🌐 Socials
 
+[![Website](https://img.shields.io/badge/www.quantsmind.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.quantsmind.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajit-kumar-4bb8b8183/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ajitjava2)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajitjava2@gmail.com)
