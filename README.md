@@ -206,8 +206,15 @@
 
 # ☕ Support My Work
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me%20on%20GitHub-Sponsors-%23EA4AAA?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/ajit-ai)
-[![Read Articles](https://img.shields.io/badge/Read%20my%20articles-Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@ajitjava2)
+<div align="left">
+
+If my work helps you, consider sponsoring — it keeps open-source and research alive.
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor_on_GitHub-%E2%99%A5-lightgrey?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=%23EA4AAA&color=lightgrey)](https://github.com/sponsors/ajit-ai)
+[![Sponsor via Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ajitjava2)
+[![Read on Medium](https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ajitjava2)
+
+</div>
 
 ---
 
