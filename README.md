@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=karkain&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Founder%20%40%20www.quantsmind.com%20%C2%B7%20Chief%20Solution%20Architect&descSize=14&descAlignY=68)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ajit%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Founder%20%40%20www.quantsmind.com%20%C2%B7%20Chief%20Solution%20Architect&descSize=14&descAlignY=68)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Founder+%40+www.quantsmind.com;Chief+Solution+Architect;Quantum+Innovator+%7C+Enterprise+Architect;Cosmologist+%7C+Entrepreneur+%7C+VC)](https://www.quantsmind.com)
 
