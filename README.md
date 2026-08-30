@@ -42,8 +42,6 @@
 ### 🤖 AI, Data Science & Quantum
 
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mysql,redis,flutter,androidstudio,eclipse,vscode,idea&theme=dark)](https://skillicons.dev)
-
----
 ---
 
 # 📊 GitHub Stats
@@ -74,9 +72,9 @@
 
 ```text
 🗓️  11+ years on GitHub            (joined April 2015)
-📦   37 public repositories
-🌍   16+ programming languages explored
-👥   23 followers · following 78
+📦   38 public repositories
+🌍   30+ languages & technologies explored
+👥   25 followers · following 78
 ⭐    Community stars earned across projects
 🚀   Active this week in Quantum Computing & Data Science
 ```
@@ -144,6 +142,7 @@
 | Repository | About | Language |
 |------------|-------|----------|
 | [🌌 quantsmind-web](https://github.com/ajit-ai/quantsmind-web) | Quantum mind exploration — modern web app | `TypeScript` |
+| [🌐 quantsmind-site](https://github.com/ajit-ai/quantsmind-site) | Quantsmind platform site & services | `TypeScript` |
 | [🌌 quantsmind-website](https://github.com/ajit-ai/quantsmind-website) | Quantums Mind exploration | `TypeScript` |
 | [💰 quantsmoney-website](https://github.com/ajit-ai/quantsmoney-website) | Quantsmoney platform website | `HTML` |
 | [🏙️ angularhosting](https://github.com/ajit-ai/angularhosting) | A visual journey through Jodhpur city | `HTML` |
