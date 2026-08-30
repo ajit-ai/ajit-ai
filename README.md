@@ -86,7 +86,7 @@
 
 ```text
 🗓️  11+ years on GitHub            (joined April 2015)
-📦   38 public repositories
+📦   40 public repositories
 🌍   30+ languages & technologies explored
 👥   25 followers · following 78
 ⭐    Community stars earned across projects
@@ -157,6 +157,8 @@
 |------------|-------|----------|
 | [🌌 quantsmind-web](https://github.com/ajit-ai/quantsmind-web) | Quantum mind exploration — modern web app | `TypeScript` |
 | [🌐 quantsmind-site](https://github.com/ajit-ai/quantsmind-site) | Quantsmind platform site & services | `TypeScript` |
+| [🛡️ GuardMCP](https://github.com/ajit-ai/GuardMCP) | Guard layer for MCP — security & policy enforcement | `TypeScript` |
+| [💡 LiteIDE](https://github.com/ajit-ai/LiteIDE) | Lightweight, fast IDE experience | `TypeScript` |
 | [🌌 quantsmind-website](https://github.com/ajit-ai/quantsmind-website) | Quantums Mind exploration | `TypeScript` |
 | [💰 quantsmoney-website](https://github.com/ajit-ai/quantsmoney-website) | Quantsmoney platform website | `HTML` |
 | [🏙️ angularhosting](https://github.com/ajit-ai/angularhosting) | A visual journey through Jodhpur city | `HTML` |
