@@ -2,6 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Senior+Solution+Architect;Cloud+%26+Polyglot+Engineer;Quantum+Computing+Researcher;Cosmologist+%7C+Entrepreneur+%7C+VC;Architecting+Scalable+Distributed+Systems)](https://github.com/ajit-ai)
 
+<div align="left">
+
+[![GitHub followers](https://img.shields.io/github/followers/ajit-ai?label=Followers&style=social)](https://github.com/ajit-ai?tab=followers)
+[![GitHub following](https://img.shields.io/badge/Following-78-blue?style=social&logo=github)](https://github.com/ajit-ai?tab=following)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-♥-EA4AAA?style=social&logo=githubsponsors)](https://github.com/sponsors/ajit-ai)
+[![Profile views](https://komarev.com/ghpvc/?username=ajit-ai&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ajit-ai)
+
+</div>
+
 ---
 
 # 💫 About Me
