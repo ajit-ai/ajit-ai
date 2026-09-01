@@ -193,6 +193,7 @@
 # ✍️ Latest Articles on Medium
 
 <!-- MEDIUM-POST-LIST:START -->
+- [High-Throughput Real-Time Analytics Platform Architecture](https://medium.com/@ajitjava2/high-throughput-real-time-analytics-platform-architecture-527064b81bfb?source=rss-802fd7bbd385------2)
 - [Quantum Algorithms — Way forward…](https://medium.com/@ajitjava2/quantum-algorithms-way-forward-5272751fe2ee?source=rss-802fd7bbd385------2)
 <!-- MEDIUM-POST-LIST:END -->
 
