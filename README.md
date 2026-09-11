@@ -86,7 +86,7 @@
 
 ```text
 🗓️  11+ years on GitHub            (joined April 2015)
-📦   40 public repositories
+📦   43 public repositories
 🌍   30+ languages & technologies explored
 👥   25 followers · following 78
 ⭐    Community stars earned across projects
@@ -149,6 +149,7 @@
 | [🤖 Robotics](https://github.com/ajit-ai/Robotics) | Robotics & intelligent automation projects | `Python` |
 | [🔥 pytorch](https://github.com/ajit-ai/pytorch) | PyTorch model building & experimentation | `Python` |
 | [🧪 Tensorflow-demo](https://github.com/ajit-ai/Tensorflow-demo) | TensorFlow demos & experiments | `Python` |
+| [🔬 microquantum](https://github.com/ajit-ai/microquantum) | MicroQuantum — compact quantum experiments | `Python` |
 | [🐍 Python](https://github.com/ajit-ai/Python) | Python projects & computational notebooks | `Jupyter` |
 
 ### 🌐 Web · Applications · Systems
@@ -157,8 +158,10 @@
 |------------|-------|----------|
 | [🌌 quantsmind-web](https://github.com/ajit-ai/quantsmind-web) | Quantum mind exploration — modern web app | `TypeScript` |
 | [🌐 quantsmind-site](https://github.com/ajit-ai/quantsmind-site) | Quantsmind platform site & services | `TypeScript` |
-| [🛡️ GuardMCP](https://github.com/ajit-ai/GuardMCP) | Guard layer for MCP — security & policy enforcement | `TypeScript` |
-| [💡 LiteIDE](https://github.com/ajit-ai/LiteIDE) | Lightweight, fast IDE experience | `TypeScript` |
+| [🛡️ GuardMCP](https://github.com/ajit-ai/GuardMCP) | Guard layer for MCP — security & policy enforcement | `Python` |
+| [💡 LiteIDE](https://github.com/ajit-ai/LiteIDE) | Lightweight, fast IDE experience | `Rust` |
+| [🧩 Quantsmind-wesite-works](https://github.com/ajit-ai/Quantsmind-wesite-works) | Quantsmind website works & components | `TypeScript` |
+| [🎨 Quantsmind-website-demo](https://github.com/ajit-ai/Quantsmind-website-demo) | Quantsmind website demo & previews | `TypeScript` |
 | [🌌 quantsmind-website](https://github.com/ajit-ai/quantsmind-website) | Quantums Mind exploration | `TypeScript` |
 | [💰 quantsmoney-website](https://github.com/ajit-ai/quantsmoney-website) | Quantsmoney platform website | `HTML` |
 | [🏙️ angularhosting](https://github.com/ajit-ai/angularhosting) | A visual journey through Jodhpur city | `HTML` |
