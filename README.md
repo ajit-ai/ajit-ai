@@ -86,7 +86,7 @@
 
 ```text
 🗓️  11+ years on GitHub            (joined April 2015)
-📦   43 public repositories
+📦   44 public repositories
 🌍   30+ languages & technologies explored
 👥   25 followers · following 78
 ⭐    Community stars earned across projects
@@ -150,6 +150,7 @@
 | [🔥 pytorch](https://github.com/ajit-ai/pytorch) | PyTorch model building & experimentation | `Python` |
 | [🧪 Tensorflow-demo](https://github.com/ajit-ai/Tensorflow-demo) | TensorFlow demos & experiments | `Python` |
 | [🔬 microquantum](https://github.com/ajit-ai/microquantum) | MicroQuantum — compact quantum experiments | `Python` |
+| [📦 quantsmind-quantum-sdk](https://github.com/ajit-ai/quantsmind-quantum-sdk) | Quantsmind SDK — quantum computing foundation | `Python` |
 | [🐍 Python](https://github.com/ajit-ai/Python) | Python projects & computational notebooks | `Jupyter` |
 
 ### 🌐 Web · Applications · Systems
@@ -168,6 +169,7 @@
 | [🛠️ driversfiles](https://github.com/ajit-ai/driversfiles) | System driver files inspection & management tool | `Java` |
 | [⚙️ fct](https://github.com/ajit-ai/fct) | Java-based utility application | `Java` |
 | [⚡ Redis-Cache](https://github.com/ajit-ai/Redis-Cache) | Redis caching patterns & performance demos | — |
+| [🗄️ Quantsmind-Relational-DB](https://github.com/ajit-ai/Quantsmind-Relational-DB) | Relational database experiments | `Rust` |
 
 ### 💻 Polyglot Language Labs
 
@@ -188,7 +190,7 @@
 | [⚡ Zig](https://github.com/ajit-ai/Zig) | `Zig` |
 | [🅅 Vlang](https://github.com/ajit-ai/Vlang) | `V` |
 | [♯ CSharp](https://github.com/ajit-ai/CSharp) | `C#` |
-| [🧩 Karkain-demo](https://github.com/ajit-ai/Karkain-demo) | `Karkain` |
+| [🧩 Karkain](https://github.com/ajit-ai/Karkain) | `Karkain` |
 | [🎸 Groovy](https://github.com/ajit-ai/Groovy) | `Groovy` |
 
 ---
