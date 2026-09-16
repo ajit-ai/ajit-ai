@@ -38,7 +38,7 @@
 
 A lightweight, NumPy-only quantum computing SDK (MIT-licensed, published on PyPI). Circuits, operators, simulators and algorithms are implemented from scratch — no wrappers around Qiskit, Cirq, or OpenQASM.
 
-| [Repository](https://github.com/ajit-ai/microquantum) · [Documentation](https://ajit-ai.github.io/microquantum/) · [PyPI](https://pypi.org/project/microquantum/) |
+[Repository](https://github.com/ajit-ai/microquantum) · [Documentation](https://ajit-ai.github.io/microquantum/) · [PyPI](https://pypi.org/project/microquantum/)
 
 ---
 
@@ -46,7 +46,7 @@ A lightweight, NumPy-only quantum computing SDK (MIT-licensed, published on PyPI
 
 Karkain is a statically typed systems programming language for heterogeneous computing — CPU, GPU, NPU and Quantum. It ships a self-hosted compiler with a status vocabulary that only marks features `Implemented` when an automated gate exercises the real CLI.
 
-| [Repository](https://github.com/ajit-ai/Karkain) · [Status Vocabulary](https://github.com/ajit-ai/Karkain/blob/main/docs/source/status/index.rst) |
+[Repository](https://github.com/ajit-ai/Karkain) · [Status Vocabulary](https://github.com/ajit-ai/Karkain/blob/main/docs/source/status/index.rst)
 
 ---
 
@@ -54,7 +54,7 @@ Karkain is a statically typed systems programming language for heterogeneous com
 
 A hardware-independent, vendor-independent scientific computing SDK built on a single first-principle model: systems composed of entities that evolve through interactions.
 
-| [Repository](https://github.com/ajit-ai/quantsmind-quantum-sdk) |
+[Repository](https://github.com/ajit-ai/quantsmind-quantum-sdk)
 
 ---
 
@@ -62,7 +62,7 @@ A hardware-independent, vendor-independent scientific computing SDK built on a s
 
 Developer tooling and experiments: [LiteIDE](https://github.com/ajit-ai/LiteIDE) (lightweight Tauri + Rust IDE), [GuardMCP](https://github.com/ajit-ai/GuardMCP) (guard layer for MCP), [Quantsmind-Relational-DB](https://github.com/ajit-ai/Quantsmind-Relational-DB) (Rust embedded database engine), [Vsector](https://github.com/ajit-ai/Vsector) (distributed vector database), plus quantum/ML notebooks and language labs.
 
-| [All repositories](https://github.com/ajit-ai?tab=repositories) |
+[All repositories](https://github.com/ajit-ai?tab=repositories)
 
 ---
 
